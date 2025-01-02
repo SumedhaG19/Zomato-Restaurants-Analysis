@@ -7,7 +7,7 @@ The Zomato Insights Dashboard provides a comprehensive analysis of Zomato's busi
 ## Project Overview
 The Zomato Insights Dashboard provides a comprehensive analysis of Zomato's business data, focusing on metrics such as customer preferences, restaurant performance, and market trends. The goal of this project is to uncover actionable insights that can help optimize operations, enhance customer satisfaction, and inform strategic decision-making.
 
-##DashBoard
+## DASHBOARD
 
 ![snapshot](https://github.com/user-attachments/assets/7651a27d-fcdd-4fdf-b167-d28181337a83)
 
